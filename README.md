@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,dotnet,github,ps,py,unity,visualstudio,vscode" />
-  </a>
-</p>
+<img src="{https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl}" />
