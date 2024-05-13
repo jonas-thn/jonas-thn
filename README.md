@@ -1,1 +1,1 @@
-<img src="{https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl}" />
+![image]({https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white})
