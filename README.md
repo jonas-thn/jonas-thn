@@ -1,5 +1,5 @@
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,dotnet,github,ps,py,unity,visualstudio,vscode" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
