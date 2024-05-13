@@ -1,1 +1,5 @@
-![image]({https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white})
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=blender,c,cs,cpp,dotnet,github,ps,py,unity,visualstudio,vscode" />
+  </a>
+</p>]
