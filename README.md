@@ -1,7 +1,7 @@
 <p>
   <a>
     :white_small_square:Languages: <br/>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,lua,go,rust" /> <br/>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,lua,go,rust" /> <br/> <br/>
     :white_small_square:Other: <br/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
