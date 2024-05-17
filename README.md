@@ -5,7 +5,7 @@
     ▫️Frameworks, Libaries, etc.: <br/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/SDL-FFFFFF?style=for-the-badge&logo=" /> <br/> <br/>
+    <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" /> <br/> <br/>
     ▫️Software, Tools, etc.: <br/>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
