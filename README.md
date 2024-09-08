@@ -9,7 +9,7 @@
     ▫️Frameworks, Libaries, etc.: <br/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/SDL-FFFFFF?style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/SDL-FFFFFC?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/SDL-FF9800?style=for-the-badge&logoColor=black" />
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" /> 
     <img src="https://img.shields.io/badge/ImGui-4E5EE4?style=for-the-badge&logoColor=white" />
