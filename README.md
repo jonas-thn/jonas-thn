@@ -23,6 +23,6 @@
     <img src="https://img.shields.io/badge/Substance-1e3101?style=for-the-badge&logoColor=white" /> 
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
     <br/> <br/>
-    42 Reposetories: 🔲3 public 🔳39 private
+    42 Reposetories: ◽3 public ◾39 private
   </a>
 </p>
