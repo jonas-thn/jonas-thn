@@ -25,4 +25,4 @@
 </div>
 <br/>
 
-<small> _42 Reposetories: ◽4 public ◾39 private_ </small>
+<small> _42 Reposetories: ◽4 public ◾38 private_ </small>
