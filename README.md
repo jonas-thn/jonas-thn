@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> 
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/GLSL-FFFFFF?style=for-the-badge&logoColor=black" />
     <br/> <br/>
     ▫️Frameworks, Libaries, etc.: 
     <br/>
@@ -26,4 +27,4 @@
 </div>
 <br/>
 
-<small> _61 Reposetories: ◽20 public ◾41 private_ </small>
+<small> _63 Reposetories: ◽21 public ◾42 private_ </small>
