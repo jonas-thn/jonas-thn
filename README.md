@@ -27,4 +27,4 @@
 </div>
 <br/>
 
-<small> _63 Reposetories: ◽21 public ◾42 private_ </small>
+<small> _63 Reposetories: ◽22 public ◾41 private_ </small>
