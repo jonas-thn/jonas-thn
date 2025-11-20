@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/ImGui-4E5EE4?style=for-the-badge&logoColor=white" />
     <br/> <br/>
     ▫️Software, Tools, etc.: 
+    <br>
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Substance-1e3101?style=for-the-badge&logoColor=white" /> 
