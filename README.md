@@ -20,10 +20,10 @@
     <br>
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Substance-1e3101?style=for-the-badge&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> 
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
   </a>
 </div>
 <br/>
 
-<small> _64 Reposetories: ◽22 public ◾42 private_ </small>
+<small> _65 Reposetories: ◽22 public ◾43 private_ </small>
