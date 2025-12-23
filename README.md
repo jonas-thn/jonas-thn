@@ -9,8 +9,8 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-FFFFFF?style=for-the-badge&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) <br>
-![ImGui](https://img.shields.io/badge/ImGui-4E5EE4?style=for-the-badge&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) 
+![ImGui](https://img.shields.io/badge/ImGui-4E5EE4?style=for-the-badge&logoColor=white) <br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ▫️Tools, Software, etc.: <br>
@@ -18,4 +18,4 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-_68 Reposetories: ◽22 public ◾46 private_
+_69 Reposetories: ◽22 public ◾47 private_
