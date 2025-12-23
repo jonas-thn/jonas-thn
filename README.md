@@ -5,7 +5,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-FFFFFF?style=for-the-badge&logoColor=black)
 
-▫️Platforms, Frameworks, Libaries: <br>
+▫️Platforms, Frameworks, Libraries: <br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-FFFFFF?style=for-the-badge&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -18,4 +18,4 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-_69 Reposetories: ◽22 public ◾47 private_
+_69 Repositories: ◽22 public ◾47 private_
