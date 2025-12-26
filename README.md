@@ -5,7 +5,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-FFFFFF?style=for-the-badge&logoColor=black)
 
-▫️Platforms, Frameworks, Libaries: <br>
+▫️Platforms, Frameworks, Libraries: <br>
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) 
 ![Unity](https://img.shields.io/badge/Unity-050710?style=for-the-badge&logo=unity&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-FFFFFF?style=for-the-badge&logoColor=black)
@@ -21,4 +21,4 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-FFFFFF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-3E3B50?style=for-the-badge&logo=git&logoColor=white)
 
-_69 Reposetories: ◽22 public ◾47 private_
+_69 Repositories: ◽22 public ◾47 private_
