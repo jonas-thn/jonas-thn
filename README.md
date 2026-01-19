@@ -21,4 +21,4 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-FFFFFF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-3E3B50?style=for-the-badge&logo=git&logoColor=white)
 
-_69 Repositories: ◽22 public ◾47 private_
+_70 Repositories: ◽22 public ◾48 private_
