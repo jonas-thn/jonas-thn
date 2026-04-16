@@ -13,6 +13,7 @@
 
 ![Graphics](https://img.shields.io/badge/GRAPHICS-0d1117?style=for-the-badge)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)
+![Wgpu](https://img.shields.io/badge/Wgpu-00897B?style=flat)
 ![ImGui](https://img.shields.io/badge/ImGui-4E5EE4?style=flat&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000307?style=flat&logo=unity&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-FFFFFF?style=flat&logoColor=black)
@@ -21,4 +22,4 @@
 ![GIT](https://img.shields.io/badge/GIT-113072?style=flat&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-015787.svg?style=flat&logo=blender&logoColor=white)
 
-_76 Repositories: ◽28 public ◾48 private_
+_78 Repositories: ◽29 public ◾49 private_
