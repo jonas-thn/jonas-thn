@@ -22,4 +22,4 @@
 ![GIT](https://img.shields.io/badge/GIT-113072?style=flat&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-015787.svg?style=flat&logo=blender&logoColor=white)
 
-_79 Repositories: ◽30 public ◾49 private_
+_81 Repositories: ◽30 public ◾51 private_
