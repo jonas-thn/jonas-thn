@@ -6,9 +6,10 @@
 ![GLSL](https://img.shields.io/badge/GLSL-FFFFFF?style=flat&logoColor=black)
 
 ![Embedded](https://img.shields.io/badge/EMBEDDED-0d1117?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-004580?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-3F51B5?style=flat&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00799B?style=flat&logo=freertos&logoColor=white)
+![STMCube](https://img.shields.io/badge/STMCube-03335B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-2F343F?style=flat&logo=espressif&logoColor=white)
 
 ![Graphics](https://img.shields.io/badge/GRAPHICS-0d1117?style=for-the-badge)
