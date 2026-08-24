@@ -22,4 +22,4 @@
 ![GIT](https://img.shields.io/badge/GIT-113072?style=flat&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
-_85 Repositories: ◽34 public ◾51 private_
+_85 Repositories: ◽21 public ◾64 private_
