@@ -4,14 +4,12 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-30699C?style=flat&logo=python&logoColor=white)
 
-![Technology](https://img.shields.io/badge/TECHNOLOGY-0d1117?style=for-the-badge)
+![Technologies](https://img.shields.io/badge/TECHNOLOGIES-0d1117?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-004580?style=flat&logo=stmicroelectronics&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-202550?style=flat&logo=opengl&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00799B?style=flat&logo=freertos&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-1F51B5?style=flat&logo=espressif&logoColor=white)
-![wgpu](https://img.shields.io/badge/wgpu-20699C?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-1A3761?style=flat&logo=linux&logoColor=white)
-
 
 ![Tools](https://img.shields.io/badge/TOOLS-0d1117?style=for-the-badge)
 ![GIT](https://img.shields.io/badge/GIT-113072?style=flat&logo=git&logoColor=white)
@@ -20,4 +18,4 @@
 ![Unity](https://img.shields.io/badge/Unity-102040?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-015787.svg?style=flat&logo=blender&logoColor=white)
 
-_85 Repositories: ◽19 public ◾66 private_
+_86 Repositories: ◽19 public ◾67 private_
