@@ -9,14 +9,15 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-202550?style=flat&logo=opengl&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00799B?style=flat&logo=freertos&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-1F51B5?style=flat&logo=espressif&logoColor=white)
-![Wgpu](https://img.shields.io/badge/Wgpu-20699C?style=flat)
-![Unity](https://img.shields.io/badge/Unity-0D1A34?style=flat&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-015787.svg?style=flat&logo=blender&logoColor=white)
+![wgpu](https://img.shields.io/badge/wgpu-20699C?style=flat)
+![Linux](https://img.shields.io/badge/Linux-1A3761?style=flat&logo=linux&logoColor=white)
 
-![Tooling](https://img.shields.io/badge/TOOLING-0d1117?style=for-the-badge)
+
+![Tools](https://img.shields.io/badge/TOOLS-0d1117?style=for-the-badge)
 ![GIT](https://img.shields.io/badge/GIT-113072?style=flat&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1F85D5?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1A3761?style=flat&logo=linux&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-102040?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-015787.svg?style=flat&logo=blender&logoColor=white)
 
 _85 Repositories: ◽19 public ◾66 private_
